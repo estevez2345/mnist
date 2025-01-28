@@ -17,7 +17,7 @@
 2. Instala las dependencias utilizando `pip`:
 
    ```sh
-   python -m venv --copies /opt/venv && . /opt/venv/bin/activate && pip install -r requirements.txt
+   python -m venv --copies /venv && . /venv/bin/activate && pip install -r requirements.txt
    ```
 
 ## Uso
